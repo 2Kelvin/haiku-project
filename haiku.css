@@ -1,0 +1,15 @@
+article {
+    background-color: rgb(240, 192, 149);
+    margin: auto;
+    width: 350px;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    padding: 2em;
+    margin-top: 15em;
+    border-radius: 20px;
+}
+
+hr {
+    color: turquoise;
+}
